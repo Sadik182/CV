@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+body {
+    width: 0 auto;
+}
+.hed {
+    font-size: 25px;
+    width: 100%;
+    height: 20%;
+    margin-top: 20px;
+    text-align: center;
+    font-family:'Times New Roman', Times, serif;
+}
+.address {
+    width: 50%;
+    margin: 30px 20px;
+    height: 140px;  
+}
+.address h1 {
+    margin-bottom: 5px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    width: 10%;
+    height: 140px;
+    margin-left: 80%;
+    display: block;
+    margin-top: -150px;
+
+    
+}
+hr {
+    border: 3px solid black;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 90%;
+  
+}
+
+.ambition h1 {
+background-color: black;
+color: white;
+padding: 5px;
+width: 90%;
+}
+.ambition p {
+    text-align: center;
+    font-size: 25px;
+}
+table {
+    
+}
+table, tr, th, td {
+    border: 1px solid black;
+    
+}
+.referees{
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.referees1 {
+    width: 40%;
+    height: 170px;
+    margin-top: 20px;
+    border: 1px solid black;
+    text-align: left;
+    padding-top: 20px;
+    margin-bottom: 10px;
+    display: inline-block;
+
+}
+
+.referees2 {
+   width: 40%;
+   height: 170px;
+   border: 1px solid black; 
+   margin-top: 20px;
+   padding-top: 20px;
+   display: inline-block;
+
+   
+   
+}
