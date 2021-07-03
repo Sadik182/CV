@@ -1,11 +1,10 @@
 * {
     margin: 0;
     padding: 0;
+    margin-left: 30px;
 
 }
-body {
-    width: 0 auto;
-}
+
 .hed {
     font-size: 25px;
     width: 100%;
@@ -16,7 +15,6 @@ body {
 }
 .address {
     width: 50%;
-    margin: 30px 20px;
     height: 140px;  
 }
 .address h1 {
@@ -37,17 +35,26 @@ hr {
     border: 3px solid black;
     margin-top: 10px;
     margin-bottom: 15px;
-    width: 90%;
+    width: 88%;
+    margin-left: 60px;
+    border-radius: 5px;
   
 }
 
-.ambition h1 {
-background-color: black;
-color: white;
-padding: 5px;
-width: 90%;
+.headings {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(19,19,19,1) 45%, rgba(237,238,238,1) 89%);
+    color: white;
+    padding: 5px;
+    font-weight: bold;
+    width: 90%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
 }
+
 .ambition p {
+    width: 90%;
     text-align: center;
     font-size: 25px;
 }
@@ -58,8 +65,11 @@ table, tr, th, td {
     border: 1px solid black;
     
 }
+.colon {
+    margin-left: 10%;
+    margin-right: 20px;
+}
 .referees{
-    width: 90%;
     margin-top: 10px;
     margin-bottom: 10px;
 }
